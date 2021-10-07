@@ -1,4 +1,4 @@
-# SKILLS
+# SKILLS 🎓
 
 Before you start designing elevation products you should have good knowledge in the following areas.
 

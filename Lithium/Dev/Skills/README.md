@@ -1,4 +1,4 @@
-# SKILLS
+# SKILLS 🎓
 
 Before you start working in lithium micro-service we have selected pluralsight courses that you should do.
 

@@ -1,4 +1,4 @@
-# Documentation
+# Documentation 📄
 
 The following topics describe the main concepts present in elevation applications,
 and will be the basis for a better understanding of the elevation architecture.

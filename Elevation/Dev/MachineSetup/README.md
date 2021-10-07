@@ -1,4 +1,4 @@
-# MACHINE SETUP
+# MACHINE SETUP 🔧
 
 Before you move on, you must setup your machine.
 

@@ -1,4 +1,4 @@
-# Documentation
+# Documentation 📄
 
 The following topics will be a way of understanding of the lithium micro-service architecture.
 
