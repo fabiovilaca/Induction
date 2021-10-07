@@ -8,8 +8,6 @@
 
     Covers software installation and configuration.
 
-    Alternatively, just for learning purposes, follow the [Quick Machine Setup](machine-setup-quick.md).    
-
 3. [Documentation](Documentation/README.md)
 
     Provides internal documentation on a variety of topics.
