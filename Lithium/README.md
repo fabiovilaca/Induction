@@ -1,9 +1,8 @@
 # Lithium Induction 📚
 
-This program aims to accelerate the learning curve of product design using the Elevation platform.
+This program aims to preper you to all the challenges your gonna find developing in lithium micro-service.
 
-Here you will find all the tools you need to design a product from scratch, using patterns and strategies
-that will facilitate code maintenance, improve performance and enhance scalability.
+Here you will find all the tools and all documentation to improve your performance.
 
 Lets start!
 
