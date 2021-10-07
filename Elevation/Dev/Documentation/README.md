@@ -4,7 +4,7 @@ The following topics describe the main concepts present in elevation application
 and will be the basis for a better understanding of the elevation architecture.
 
 
-# Arquitetura das Aplicações
+# Application Architecture
 
 The architecture of Elevation native applications is complex. The following topics describe this architecture from its most important perspectives and also describe the fundamental part of the platform runtime components that will be part of these applications.
 
