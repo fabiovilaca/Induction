@@ -16,7 +16,7 @@
 
     Here you will have a series of hands-on videos, with some of the features of the platform.
 	
-5. [Feedback](Feedback/README.md)
+5. [Feedback](Feedback)
 
 	In this final step, we want you to give us some feedback on problems you have encountered, concepts that were difficult to understand, and suggestions for improvement in this induction.
 
