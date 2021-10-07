@@ -9,10 +9,10 @@ Lets start!
 
 ## Index
 
-1. [Development training](dev/README.md)
+1. [Development training](Dev/README.md)
 
     Covers development training.
 
-2. [Quality Assurance training](qa/README.md)
+2. [Quality Assurance training](QA/README.md)
 
     Covers quality assurance training.
