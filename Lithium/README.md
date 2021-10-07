@@ -1,4 +1,4 @@
-# PRIMAVERA Elevation Induction 📚
+# Lithium Induction 📚
 
 This program aims to accelerate the learning curve of product design using the Elevation platform.
 
