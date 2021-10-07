@@ -16,3 +16,8 @@ Before you start working in lithium micro-service we have selected pluralsight c
 6. [Getting Started with Entity Framework 6](https://app.pluralsight.com/library/courses/entity-framework-6-getting-started/table-of-contents)
 
 7. [Getting Started with Git](https://app.pluralsight.com/library/courses/getting-started-git).
+
+
+In addition to the pluralsight courses, we suggest you read this microsoft article on Cloud Design Patterns:
+
+	- [Microsoft Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/);
