@@ -1,6 +1,6 @@
 # Index
 
-1. [Skils](Skills/README.md)
+1. [Skills](Skills/README.md)
 
     Includes courses on core technologies.
 
