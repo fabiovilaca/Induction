@@ -20,4 +20,4 @@ Before you start working in lithium micro-service we have selected pluralsight c
 
 In addition to the pluralsight courses, we suggest you read this microsoft article on Cloud Design Patterns:
 
-	- [Microsoft Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/);
+8. [Microsoft Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns);
